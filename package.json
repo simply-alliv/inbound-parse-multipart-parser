@@ -11,5 +11,13 @@
     "multipart/form-data"
   ],
   "author": "Allistair Vilakazi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlliVil/inbound-parse-multipart-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlliVil/inbound-parse-multipart-parser/issues"
+  },
+  "homepage": "https://github.com/AlliVil/inbound-parse-multipart-parser#readme"
 }

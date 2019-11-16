@@ -6,7 +6,7 @@ For example, a SendGrid Inbound Parse webhook pointing to an Azure Function
 
 # author
 
-[Cristian Salazar] was the author of the original parser. I, Allistair Vilakazi, just adapted the code to be able to parse the specific multipart/form-data format of SendGrid's Inbound Parse Webhook.
+Cristian Salazar was the author of the original parser. You can find the original [here][https://github.com/freesoftwarefactory/parse-multipart#readme]. I, Allistair Vilakazi, just adapted the code to be able to parse the specific multipart/form-data format of SendGrid's Inbound Parse Webhook.
 
 # Background
 

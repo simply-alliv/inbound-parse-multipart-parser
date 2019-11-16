@@ -1,0 +1,15 @@
+{
+  "name": "inbound-parse-multipart-parser",
+  "version": "1.0.0",
+  "description": "A javascript/nodejs multipart/form-data parser which operates on data from SendGrid's Inbound Parse Webhook. e.g. A SendGrid Inbound Parse webhook pointing to an Azure Function.",
+  "main": "multipart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sendgrid inbound parse",
+    "multipart/form-data"
+  ],
+  "author": "Allistair Vilakazi",
+  "license": "MIT"
+}
